@@ -1,11 +1,20 @@
 {
-    "unstable": {
-        "2.0": {
-            "current": "2.0.0",
-            "announcement": "نسخه جدید منتشر شد",
-            "download": "https://github.com/phpbbfarsi/Shamsi-date-phpBB-extension/archive/2.0.0.zip",
-            "eol": null,
-            "security": false
-        }
-    }
+	"stable": {
+		"2.0": {
+			"current": "2.0.0",
+			"download": "https://github.com/phpbbfarsi/Shamsi-date-phpBB-extension/archive/2.0.0.zip",
+			"announcement": "https://www.php-bb.ir/forum/viewtopic.php?f=98&t=570",
+			"eol": null,
+			"security": false
+		}
+	},
+	"unstable": {
+		"2.0": {
+			"current": "2.0.0",
+			"download": "https://github.com/phpbbfarsi/Shamsi-date-phpBB-extension/archive/2.0.0.zip",
+			"announcement": "https://www.php-bb.ir/forum/viewtopic.php?f=98&t=570",
+			"eol": null,
+			"security": false
+		}
+	}
 }
