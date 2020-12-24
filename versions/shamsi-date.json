@@ -2,7 +2,7 @@
     "unstable": {
         "2.0": {
             "current": "2.0.0",
-            "announcement": "",
+            "announcement": "نسخه جدید منتشر شد",
             "download": "https://github.com/phpbbfarsi/Shamsi-date-phpBB-extension/archive/2.0.0.zip",
             "eol": null,
             "security": false
